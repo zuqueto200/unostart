@@ -1,0 +1,23 @@
+.barFooter {
+  height: 72px;
+  position: fixed;
+
+  bottom: 0;
+  width: 100%;
+  background-color: #1e222f;
+  box-shadow: 0 0 3px black;
+}
+.todosIcons {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 230px;
+}
+.registro {
+  position: absolute;
+  right: 10vw;
+}
+.afastar {
+  height: 150px;
+  width: 100%;
+}

@@ -1,0 +1,39 @@
+.containerComprarEmail {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+.contentComprarEmail {
+  width: 500px;
+}
+.divInfoComprarEmail {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  background-color: #1e222f;
+  border-radius: 24px;
+  padding: 35px;
+  position: relative;
+}
+.divConversaoRedondo{
+ 
+  position: absolute;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  top: 367px;
+  
+}
+.conversaoInfo {
+  padding: 16px;
+  background-color: #141720;
+  border-radius: 14px;
+}
+.conversaoInfo input {
+  padding: 0;
+  font-size: 24px;
+}
+.valorConversao {
+  font-weight: 700;
+  font-size: 14px;
+  margin: 6px 0;
+}

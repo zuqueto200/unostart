@@ -1,0 +1,63 @@
+.containerHeader {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  margin-top: 8vh;
+}
+.contentHeader {
+  width: 500px;
+}
+ 
+.divlogo {
+  position: relative;
+  margin-bottom: 100px;
+}
+.imgLogo {
+  width: 206px;
+}
+.idiomaTema{
+  position: absolute;
+  right: 0;
+  height: 20px;
+   
+  width: 70px;
+  display: flex;
+  justify-content: space-between;
+}
+.pergunta {
+  margin-bottom: 40px;
+  font-weight: 700;
+  font-size: 18px;
+}
+
+.todosBotoes {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 55px;
+  font-size: 14px;
+  position: relative;
+}
+.btHeader {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-width: 72px;
+  min-height: 72px;
+  border-radius: 16px;
+  background-color: #1e222f;
+}
+.nomeBotao {
+  position: absolute;
+  top: 70px;
+  margin-top: 8px;
+  font-weight: 600;
+}
+.hover:hover {
+  border: #f7c61a solid 2px;
+  color: #f7c61a;
+}
+.ativo {
+  border: #f7c61a solid 2px;
+  color: #f7c61a;
+}

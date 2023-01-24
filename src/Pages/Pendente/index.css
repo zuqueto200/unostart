@@ -1,0 +1,85 @@
+.containerPendente {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+.contentPendente {
+  width: 500px;
+}
+.divInfoPendente {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  background-color: #1e222f;
+  border-radius: 24px;
+  padding: 35px;
+  position: relative;
+}
+.divConversaoRedondo {
+  position: absolute;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  top: 367px;
+}
+.pendenteInfo {
+  padding: 16px 16px 0 16px;
+  background-color: #141720;
+  border-radius: 14px;
+}
+.confirmarInfo input {
+  padding: 0;
+  font-size: 24px;
+}
+
+.valorPendente {
+  color: #f7c61a;
+  font-size: 56px;
+  font-weight: 700;
+  line-height: 56px;
+  text-align: center;
+}
+
+.tituloPendente1 {
+  text-align: center;
+  font-size: 16px;
+  font-weight: 700;
+  line-height: 19px;
+}
+.tituloPendente2 {
+  font-size: 14px;
+  font-weight: 700;
+  line-height: 14px;
+  text-align: center;
+}
+.inputPendente,
+.inputPendente:hover,
+.inputPendente:focus {
+  font-size: 14px !important;
+  color: #fff !important;
+  font-weight: 700;
+  line-height: 14px;
+  text-align: left;
+  background-color: #1e222f;
+  padding-left: 15px !important;
+}
+.infoAlertaPendente {
+  margin-top: 20px;
+  font-size: 15px;
+  font-weight: 700;
+  line-height: 16px;
+  color: #f71a42;
+  background-color: #f71d4529;
+  border: solid 1px #f71a42;
+  padding: 16px 10px;
+  border-radius: 16px;
+  text-align: center;
+}
+.divInputPendente {
+  position: relative;
+}
+.copiarPendente {
+  position: absolute;
+  right: 10px;
+  top: 10px;
+  cursor: pointer;
+}
