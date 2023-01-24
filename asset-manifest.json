@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/unostart/static/css/main.c6fdd2f4.css",
+    "main.js": "/unostart/static/js/main.60c0a13f.js",
+    "static/media/iconFooter2.svg": "/unostart/static/media/iconFooter2.c42ffa0535a8b3602e866df4dcae9ebe.svg",
+    "static/media/btConversaoReais.svg": "/unostart/static/media/btConversaoReais.36998e0b5e20d37a911403161bfa2592.svg",
+    "static/media/qrCode.svg": "/unostart/static/media/qrCode.2535d91448ccaf83b94a43da7dcf5102.svg",
+    "static/media/btConversaoUSDT.svg": "/unostart/static/media/btConversaoUSDT.6af5837953b7a19a61f53640645a5a7a.svg",
+    "static/media/logo.svg": "/unostart/static/media/logo.d27c4d7946908258f30965074c8e1b74.svg",
+    "static/media/tema.svg": "/unostart/static/media/tema.1a297d2e181b194e11002a0a1624d328.svg",
+    "static/media/planeta.svg": "/unostart/static/media/planeta.9c7f235d63f5cfe04195e9228d4d511a.svg",
+    "static/media/vender.svg": "/unostart/static/media/vender.873d0423d5220655383f9c70b3baee60.svg",
+    "static/media/iconFooter3.svg": "/unostart/static/media/iconFooter3.a7fc4051435b67f072e3de05231333aa.svg",
+    "static/media/iconFooter1.svg": "/unostart/static/media/iconFooter1.a8db7c1f29d6012e53523e7ac679bb0d.svg",
+    "static/media/telegram.svg": "/unostart/static/media/telegram.9cd0a3bda48432fd23b3d12065dcdb29.svg",
+    "static/media/pagar.svg": "/unostart/static/media/pagar.3985bd2ce221e724f9330f6c94ae5ed6.svg",
+    "index.html": "/unostart/index.html",
+    "static/media/comprar.svg": "/unostart/static/media/comprar.1c2a65b9ce5c2ad8633cca451a4b575f.svg",
+    "static/media/copiar.svg": "/unostart/static/media/copiar.059b31bcf78dfc459eebe673307a0bd6.svg",
+    "static/media/relogio.svg": "/unostart/static/media/relogio.b12ff41cabf3141620a006b482bcda8e.svg",
+    "static/media/conversaoRedondo.svg": "/unostart/static/media/conversaoRedondo.c4fd3557d4c1e7dfe85858a2c93bb7dd.svg",
+    "static/media/check.svg": "/unostart/static/media/check.99b369533abff43d829bd5c0eabbcd35.svg",
+    "static/media/alerta.svg": "/unostart/static/media/alerta.cc01689a97593f0c143245542ddaa0d3.svg",
+    "static/media/divisao.svg": "/unostart/static/media/divisao.8734e1b4e563c2b9343563d6a235e502.svg",
+    "main.c6fdd2f4.css.map": "/unostart/static/css/main.c6fdd2f4.css.map",
+    "main.60c0a13f.js.map": "/unostart/static/js/main.60c0a13f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c6fdd2f4.css",
+    "static/js/main.60c0a13f.js"
+  ]
+}
