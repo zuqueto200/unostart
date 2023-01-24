@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/unostart/static/css/main.c6fdd2f4.css",
-    "main.js": "/unostart/static/js/main.2a99ac09.js",
+    "main.js": "/unostart/static/js/main.95381946.js",
     "static/media/iconFooter2.svg": "/unostart/static/media/iconFooter2.c42ffa0535a8b3602e866df4dcae9ebe.svg",
     "static/media/btConversaoReais.svg": "/unostart/static/media/btConversaoReais.36998e0b5e20d37a911403161bfa2592.svg",
     "static/media/qrCode.svg": "/unostart/static/media/qrCode.2535d91448ccaf83b94a43da7dcf5102.svg",
@@ -23,10 +23,10 @@
     "static/media/alerta.svg": "/unostart/static/media/alerta.cc01689a97593f0c143245542ddaa0d3.svg",
     "static/media/divisao.svg": "/unostart/static/media/divisao.8734e1b4e563c2b9343563d6a235e502.svg",
     "main.c6fdd2f4.css.map": "/unostart/static/css/main.c6fdd2f4.css.map",
-    "main.2a99ac09.js.map": "/unostart/static/js/main.2a99ac09.js.map"
+    "main.95381946.js.map": "/unostart/static/js/main.95381946.js.map"
   },
   "entrypoints": [
     "static/css/main.c6fdd2f4.css",
-    "static/js/main.2a99ac09.js"
+    "static/js/main.95381946.js"
   ]
 }
