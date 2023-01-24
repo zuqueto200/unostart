@@ -1,4 +1,4 @@
-import React, {useState} from "react";
+import React, {useEffect, useState} from "react";
 import QrReader from "react-qr-scanner";
 
 export function Camera() {
@@ -19,11 +19,18 @@ export function Camera() {
   };
 
   return (
-    <>
+    <>TESTE 
       <div
         style={{width: "100%", display: "flex", justifyContent: "center", margin: "20px 0 20px 0"}}>
         {result == null && (
-          <QrReader delay={delay} style={previewStyle} onError={handleError} onScan={handleScan} />
+          <QrReader
+            delay={delay}
+            style={previewStyle}
+            onError={handleError}
+            onScan={handleScan}
+            key="environment"
+            facingMode="environment"
+          />
         )}
         <h2>{result?.text}</h2>
       </div>
